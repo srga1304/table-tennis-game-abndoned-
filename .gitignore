@@ -1,0 +1,9 @@
+Library/
+Temp/
+Obj/
+*.meta
+*.csproj
+*.sln
+*.userprefs
+*.DS_Store
+Thumbs.db
